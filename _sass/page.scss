@@ -477,9 +477,10 @@ a[href="/spoiler"] {
   border-left: none;
   padding-right: 4px;
   
+  .no-touch
+  
   &:hover {
     background-color: white;
-	display: inline;
   }
     
   &:before {
