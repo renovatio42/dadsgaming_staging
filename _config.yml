@@ -6,11 +6,11 @@ description: "We are Dads sharing a passion for video games, movies, tech, and c
 logo: site-logo.png
 search: true
 # DEVELOPMENT
-title: Dads Gaming Dev
-url: http://localhost:4000
+#title: Dads Gaming Dev
+#url: http://localhost:4000
 # STAGING
-#title: Dads Gaming Staging
-#url: http://renovatio42.github.io/dadsgaming_staging
+title: Dads Gaming Staging
+url: http://renovatio42.github.io/dadsgaming_staging
 # PRODUCTION
 #title: Dads Gaming
 #url: http://www.dadsgaming.com
