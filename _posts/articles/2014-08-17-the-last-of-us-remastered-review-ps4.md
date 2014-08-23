@@ -29,8 +29,6 @@ I can't name many games out there that actually can bring a tear to my eye, make
 ![](https://31.media.tumblr.com/7e3e420e65bf6d98e7b1584cb4db169c/tumblr_n13zn2AiuP1rr1goso2_250.gif)
 
 
-Oh man here's a game spoiler leveraging the title attribute](/spoiler "Vidya")
-
 When **The Last of Us** launched last year (June 14th 2013) I was already overly excited for the game. Now, keep in mind I only own my PS3/PS4 for their exclusives, other than that all my games are bought on Xbox.  But there is a very good reason I spend hundreds on Playstation consoles and accessories, when these exclusives do come out they are **ALWAYS** a-fucking-mazing.  Not one Xbox fanboy can deny the fact they wished this stellar title was part of Xbox's game library and they couldn't be more right.
 
 A year after the initial PS3 launch **The Last of Us Remastered** is every bit of what it was last year running at 60 FPS in full 1080p.  The Remastered version also utilizes High Resolution textures that really make the already stunningly beautiful game on PS3 even more jaw dropping on PS4.  The devs also smartly included an option to lock the frame rate down to 30 FPS, which I honestly could not even look at after experiencing this masterpiece in its full 60 FPS glory.  I recommend everyone who plays this to try it once, you will be surprised by the difference it makes.
